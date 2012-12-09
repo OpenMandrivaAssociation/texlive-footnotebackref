@@ -47,3 +47,11 @@ the footnote in the main text.
 %install
 mkdir -p %{buildroot}%{_texmfdistdir}
 cp -fpar tex doc %{buildroot}%{_texmfdistdir}
+
+
+%changelog
+* Thu Aug 09 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.0-1
++ Revision: 813494
+- Import texlive-footnotebackref
+- Import texlive-footnotebackref
+
