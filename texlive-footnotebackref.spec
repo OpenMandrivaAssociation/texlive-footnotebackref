@@ -6,7 +6,7 @@
 # catalog-version 1.0
 Name:		texlive-footnotebackref
 Version:	1.0
-Release:	4
+Release:	5
 Summary:	Back-references from footnotes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/footnotebackref
