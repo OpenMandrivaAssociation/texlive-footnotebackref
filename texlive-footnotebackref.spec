@@ -1,6 +1,6 @@
 Name:		texlive-footnotebackref
 Version:	27034
-Release:	1
+Release:	2
 Summary:	Back-references from footnotes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/footnotebackref
