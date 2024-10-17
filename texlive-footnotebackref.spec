@@ -3,7 +3,7 @@ Version:	27034
 Release:	2
 Summary:	Back-references from footnotes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/footnotebackref
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/footnotebackref
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/footnotebackref.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/footnotebackref.doc.r%{version}.tar.xz
